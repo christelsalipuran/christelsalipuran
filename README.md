@@ -57,11 +57,11 @@ public class Main {
     }
 
     public static void main(String[] args) {
-        String str1 = "John";
-        String str2 = "Benedict";
-        String str3 = "Lovitos";
-        String str4 = "Lantajo";
-        String str5 = "Llagas";
+        String str1 = "Christel";
+        String str2 = "Babon";
+        String str3 = "Baldesco";
+        String str4 = "Salipuran";
+        String str5 = "Nerida";
         
         // Call the method with all 5 strings
         String concatenatedString = concatenateStrings(str1, str2, str3, str4, str5);
